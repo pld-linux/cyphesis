@@ -1,5 +1,5 @@
 Summary:	A simple personal server for the WorldForge project
-Summary(pl.UTF-8):   Prosty osobisty serwer dla projektu WorldForge
+Summary(pl.UTF-8):	Prosty osobisty serwer dla projektu WorldForge
 Name:		cyphesis
 Version:	0.5.6
 Release:	0.1
