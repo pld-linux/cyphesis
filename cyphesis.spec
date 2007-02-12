@@ -1,5 +1,5 @@
 Summary:	A simple personal server for the WorldForge project
-Summary(pl):	Prosty osobisty serwer dla projektu WorldForge
+Summary(pl.UTF-8):   Prosty osobisty serwer dla projektu WorldForge
 Name:		cyphesis
 Version:	0.5.6
 Release:	0.1
@@ -38,16 +38,16 @@ build home for me or go to dinner).
 This package includes the rules data, scripts and map data required for the
 Mason game. Use this package if you intend to run an Mason server.
 
-%description -l pl
-Cyphesis to bardzo prosty symulator ¶wiata. NPC wykonuj±ce swoje
-czynno¶ci zgodnie z regu³ami. Maj± mózgi z prostym wej¶ciem i
-wyj¶ciem. Mog± u¿ywaæ/przenosiæ/robiæ rzeczy i prowadziæ proste
-dyskusje. Mog± wydedukowaæ proste rzeczy (np. sk±d pozyskaæ dane
-przedmioty i gdzie powinny byæ). Maj± prost± pamiêæ i jej u¿ywaj±.
-Mog± mieæ swoje cele (np. zbudowaæ dom lub pój¶æ na obiad).
+%description -l pl.UTF-8
+Cyphesis to bardzo prosty symulator Å›wiata. NPC wykonujÄ…ce swoje
+czynnoÅ›ci zgodnie z reguÅ‚ami. MajÄ… mÃ³zgi z prostym wejÅ›ciem i
+wyjÅ›ciem. MogÄ… uÅ¼ywaÄ‡/przenosiÄ‡/robiÄ‡ rzeczy i prowadziÄ‡ proste
+dyskusje. MogÄ… wydedukowaÄ‡ proste rzeczy (np. skÄ…d pozyskaÄ‡ dane
+przedmioty i gdzie powinny byÄ‡). MajÄ… prostÄ… pamiÄ™Ä‡ i jej uÅ¼ywajÄ….
+MogÄ… mieÄ‡ swoje cele (np. zbudowaÄ‡ dom lub pÃ³jÅ›Ä‡ na obiad).
 
-Ten pakiet zawiera dane regu³, skrypty i dane map wymagane przez grê
-Mason. Nale¿y u¿yæ tego pakietu przy uruchamianiu serwera Masona.
+Ten pakiet zawiera dane reguÅ‚, skrypty i dane map wymagane przez grÄ™
+Mason. NaleÅ¼y uÅ¼yÄ‡ tego pakietu przy uruchamianiu serwera Masona.
 
 #%package acorn
 #Summary:	Game data for running the Acorn game in Cyphesis
@@ -61,9 +61,9 @@ Mason. Nale¿y u¿yæ tego pakietu przy uruchamianiu serwera Masona.
 #Acorn is deprecated. See README for details.
 
 #%description acorn -l pl
-#Ten pakiet zawiera dane regu³, skrypty i dane map wymagane przez grê
-#Acorn. Nale¿y u¿yæ tego pakietu przy uruchamianiu serwera Acorna.
-#Acorn jest przestarza³y. Szczegó³y w pliku README.
+#Ten pakiet zawiera dane reguÅ‚, skrypty i dane map wymagane przez grÄ™
+#Acorn. NaleÅ¼y uÅ¼yÄ‡ tego pakietu przy uruchamianiu serwera Acorna.
+#Acorn jest przestarzaÅ‚y. SzczegÃ³Å‚y w pliku README.
 
 #%package werewolf
 #Summary:	Game data for running the Werewolf game in Cyphesis
@@ -77,9 +77,9 @@ Mason. Nale¿y u¿yæ tego pakietu przy uruchamianiu serwera Masona.
 #Werewolf is not yet functional.
 
 #%description werewolf
-#Ten pakiet zawiera dane regu³, skrypty i dane map wymagane przez grê
-#Werewolf. Nale¿y u¿yæ tego pakietu przy uruchamianiu serwera
-#Werewolfa. Werewolf jeszcze nie dzia³a.
+#Ten pakiet zawiera dane reguÅ‚, skrypty i dane map wymagane przez grÄ™
+#Werewolf. NaleÅ¼y uÅ¼yÄ‡ tego pakietu przy uruchamianiu serwera
+#Werewolfa. Werewolf jeszcze nie dziaÅ‚a.
 
 %prep
 %setup -q
